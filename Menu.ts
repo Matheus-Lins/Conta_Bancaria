@@ -220,7 +220,7 @@
     console.log("\n*****************************************************");
     console.log("Projeto Desenvolvido por: Matheus Antonio Santos Lins ");
     console.log("Generation Brasil - matheusl@genstudents.org");
-    console.log("https://github.com/Matheus-Lins/Conta_Bancaria");
+    console.log("https://github.com/Matheus-Lins/sistema-bancario-typescript");
     console.log("*****************************************************");
     }
 
